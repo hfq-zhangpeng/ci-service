@@ -24,11 +24,12 @@
 
 | Job | 对应项目 | 服务器 |
 | - | - | - |
-| fe-crm-staging2 | 分期 - fe-crm | oss |
 | fe-crm-v2-staging2 | SaaS - fe-crm-v2 | 47 |
-| fe-crm-v2-staging3 | SaaS -fe-crm-v2 | 58 |
-| fe-saas-conglomerate-staging2 | 总公司 - fe-saas-conglomerate | oss |
-| fe-saas-day-ci-staging | 每日部署 daily build | -- |
 | fe-saas-oss-staging2 | 运营管理系统 - fe-saas-oss | 47 |
-| fe-saas-rnl-staging2 | 装修贷 - fe-saas-rnl | oss |
 | fe-sales-crm-staging | 销售crm - fe-sales-crm | 47 |
+| fe-crm-v2-staging3 | SaaS -fe-crm-v2 | 58 |
+| fe-crm-staging2 | 分期 - fe-crm | oss |
+| fe-saas-conglomerate-staging2 | 总公司 - fe-saas-conglomerate | oss |
+| fe-saas-rnl-staging2 | 装修贷 - fe-saas-rnl | oss |
+| fe-saas-day-ci-staging | 每日部署 daily build | -- |
+
